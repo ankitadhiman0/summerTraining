@@ -1,0 +1,5 @@
+def fun(countary = "india"):
+    print(" i am from " + countary)
+fun("nepal")
+fun()
+fun("shri lanka")

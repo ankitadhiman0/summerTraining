@@ -1,0 +1,6 @@
+file = open("practice.txt",'r')
+print(file.read())
+file = open("practice.txt",'w')
+file.write("this is write function")
+file = open("practice.txt",'a')
+file.write("this is append function")
